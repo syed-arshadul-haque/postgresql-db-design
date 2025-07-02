@@ -44,18 +44,6 @@ The schema includes the following main tables:
 
 Each table includes properly defined primary and foreign keys, constraints, and domain rules.
 
-## 📂 Folder Structure
-
-```
-├── README.md
-├── schema/
-│   ├── create_tables.sql
-│   └── insert_dummy_data.sql
-├── queries/
-│   └── business_queries.sql
-├── docs/
-│   ├── EERD.pdf
-│   └── data_dictionary.pdf
 ```
 
 ## 💡 Key Features
@@ -87,14 +75,6 @@ Each table includes properly defined primary and foreign keys, constraints, and 
 * **SQL**
 * **ERD tools** (e.g., draw\.io, Lucidchart)
 
-## 📚 References
-
-1. Beaulieu, A. (2009). *Learning SQL*. O'Reilly.
-2. Obe, R. O., & Hsu, L. S. (2017). *PostgreSQL: Up and Running*. O'Reilly.
-3. Russo, J. (2017). *SQL by Example*. Momentum Press.
-4. Wilton, P., & Colby, J. (2005). *Beginning SQL*. Wiley.
-5. Ghlala, R. (2019). *Analytic SQL in SQL Server*. Wiley.
-6. [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
 ## 🤝 Collaboration
 
